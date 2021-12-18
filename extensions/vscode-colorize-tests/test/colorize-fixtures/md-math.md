@@ -167,3 +167,7 @@ $12.45
 $12.45 x
 
 x $12.45
+
+<!-- Prevent escaped percent sign from being interpreted as comment -->
+
+$$ \% Not a comment due to escaped percent sign $$
